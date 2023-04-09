@@ -46,7 +46,7 @@
 44. h
 
 
-## Installation {#installation}
+# Installation
 
 1. g
 2. g
