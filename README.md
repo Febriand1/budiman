@@ -1,6 +1,6 @@
 # budiman
 
-1. [Installation](#installation)
+1. [Installation](#1. installation)
 2. 2
 3. f
 4. r
@@ -46,7 +46,7 @@
 44. h
 
 
-# Installation
+# 1. Installation
 
 1. g
 2. g
